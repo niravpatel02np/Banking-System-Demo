@@ -1,3 +1,6 @@
+# Demo version of Banking Management System
+# Full logic removed for safety; only GUI and partial code shown
+
 import tkinter as tk
 from ttkbootstrap import Style
 from PIL import ImageTk, Image
