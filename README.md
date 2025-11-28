@@ -11,4 +11,4 @@ A Python-based **Banking Management System** to manage customers, accounts, and 
 - Perform transactions: deposit, withdraw, and transfer  
 - Generate transaction history and account reports  
 - SQLite database for data persistence  
-- Import initial data from Excel (optional)  
+- Import initial data from Excel
